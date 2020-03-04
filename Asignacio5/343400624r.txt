@@ -1,0 +1,4 @@
+Ha creado una cuentaHa agregado 1000
+Ha retirado 990
+Ha retirado 122 su saldo es: 868
+Ha agregado 1368
